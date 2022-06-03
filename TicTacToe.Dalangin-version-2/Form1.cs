@@ -272,5 +272,15 @@ namespace TicTacToe.Dalangin_version_2
             ButtonC3.Text = keyPad[8];
             theWinner();
         }
+
+        private void playerInstructions_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("The object of Tic Tac Toe is to get three in a row. You play on a three by three game board. The first player is known as X and the second is O. Players alternate placing Xs and Os on the game board until either opponent has three in a row or all nine squares are filled. X always goes first, and in the event that no one has three in a row, the stalemate is called a tie game.", "Instructions", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void newgameButton_Click(object sender, EventArgs e)
+        {
+            reset();
+        }
     }
 }
