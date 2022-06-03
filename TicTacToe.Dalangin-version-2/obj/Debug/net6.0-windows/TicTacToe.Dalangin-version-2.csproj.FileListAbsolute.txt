@@ -1,0 +1,17 @@
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\bin\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.exe
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\bin\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.deps.json
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\bin\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.runtimeconfig.json
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\bin\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.dll
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\bin\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.pdb
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.csproj.AssemblyReference.cache
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin_version_2.TicTacToeLabel.resources
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.csproj.GenerateResource.cache
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.AssemblyInfoInputs.cache
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.AssemblyInfo.cs
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.csproj.CoreCompileInputs.cache
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.dll
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\refint\TicTacToe.Dalangin-version-2.dll
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.pdb
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\TicTacToe.Dalangin-version-2.genruntimeconfig.cache
+C:\Users\kitka\source\repos\TicTacToe.Dalangin-version-2\TicTacToe.Dalangin-version-2\obj\Debug\net6.0-windows\ref\TicTacToe.Dalangin-version-2.dll
